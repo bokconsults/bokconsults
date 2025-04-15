@@ -62,7 +62,6 @@ I turn messy data into actionable insights using **Python**, **SQL**, and **Powe
 ---
 
 ##  Let’s Connect  
-- **Freelance Work**: [Upwork](#) *(Coming Soon!)*  
 - **LinkedIn**: [Let’s chat!](https://linkedin.com/in/abdulbasit-adefugabi)  
 - **Email**: basitadefugabi@gmail.com  
 
